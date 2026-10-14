@@ -114,8 +114,14 @@ póster para el resto de la vida de la pestaña: (1) si la ventana pasaba de ≤
 arrancar; (2) un fallo puntual de red o de servidor a la apertura de la pestaña la dejaba en
 `'fallo'` eterno. Ahora `desactivar()` devuelve el estado a `'inactivo'` (puede recargar), `alListo()`
 ignora cargas que terminan ya en modo estático, y existe `revivir()`: reintento automático (máx. 2)
-al recuperar el foco, la conexión o al redimensionar. Ojo: por debajo de 768 px de ancho el scrub se
-desactiva **a propósito** y se ve el póster fijo — no es un fallo, ensancha la ventana y vuelve.
+al recuperar el foco, la conexión o al redimensionar.
+
+**Nota del 15 de octubre**: en móvil el héroe quedaba estático por **dos puertas**, no una —
+además de la puerta JS `mqAncho` (`max-width:768px`), había una puerta CSS idéntica en
+`styles.css`. Se abrieron las dos: el scrub ya funciona en cualquier ancho. Se mantiene la puerta
+de `prefers-reduced-motion: reduce` (accesibilidad). Además `alListo()` ahora llama a
+`buscar(progreso())`: si el usuario ya scrolleó mientras cargaba el vídeo, el fotograma salta a su
+posición correcta cuando el vídeo está listo.
 
 ### Cómo se hizo el vídeo (14 de octubre de 2026)
 
