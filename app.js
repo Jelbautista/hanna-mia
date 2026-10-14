@@ -41,7 +41,10 @@
   if (!hero || !escena || !video) { return; }
 
   /* ---------------- puertas del héroe estático ---------------- */
-  var mqAncho = window.matchMedia('(max-width:768px)');
+  // el scrub también funciona en móvil: solo se apaga por movimiento
+  // reducido, datos débiles o fallo (la puerta de ancho quedó abierta a
+  // propósito por pedido del cliente)
+  var mqAncho = window.matchMedia('(max-width:0px)');
   var mqMov = window.matchMedia('(prefers-reduced-motion: reduce)');
   var mqDatos = window.matchMedia('(prefers-reduced-data: reduce)');
   var redDebil = false;
@@ -297,6 +300,7 @@
     escena.classList.add('listo');
     try { video.pause(); } catch (e) {}
     if (fijoP !== null) { aplicarFijo(); }
+    else if (!modoEstatico) { buscar(progreso()); } // si el scroll ya pasó, salta al fotograma actual
   }
 
   function alFalla() {

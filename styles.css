@@ -314,12 +314,8 @@ html.sin-video .stage--scrub{display:none}
 html.sin-video .stage--estatico{display:block}
 html.sin-video .cabecera{transform:none!important;opacity:1!important}
 
-@media (max-width:768px){
-  .hero{height:100vh;height:100svh;min-height:540px}
-  .stage--scrub{display:none}
-  .stage--estatico{display:block}
-  .cabecera{transform:none!important;opacity:1!important}
-}
+/* el scrub también se ve en móvil (la puerta de ancho vive en app.js);
+   solo lo sustituye el póster estático por prefers-reduced-motion o sin-video */
 @media (prefers-reduced-motion:reduce){
   .hero{height:100vh;height:100svh;min-height:540px}
   .stage--scrub{display:none}
