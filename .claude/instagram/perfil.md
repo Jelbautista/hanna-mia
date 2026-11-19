@@ -21,11 +21,11 @@ Instagram busca en este campo. Elige una:
 
 Recomendada: **Horno Mía | Panetón Lima Este**, porque dice qué vendes y dónde. Si vendes a más zonas, usa la de 72 horas.
 
-## 2. Bio (150 caracteres; esta tiene 128)
+## 2. Bio (150 caracteres; esta tiene 130)
 
 ```
 Panetón hecho en 72 horas de reposo.
-Cañihua, huevos frescos y fruta partida. Lima Este.
+Cañihua tostada, frutos secos y arándanos. Lima Este.
 Preventa S/ 35 · Reserva por WhatsApp 👇
 ```
 
@@ -50,7 +50,7 @@ Tres espacios, tres trabajos distintos. Fíjalos con los reels de `reels-26.md`:
 | --- | --- | --- |
 | **Reservar** | Precio, preventa, 50 % de adelanto, WhatsApp | 10, 19 |
 | **Proceso** | 72 horas de reposo, 12 horas colgado, dos amasados | 21, 13, 22 |
-| **Ingredientes** | Cañihua, huevos, fruta partida | 11, 18, 26 |
+| **Ingredientes** | Cañihua tostada, frutos secos, arándanos | 11, 18, 26 |
 | **Cuidado** | Sin abrir, abierto, nunca nevera | 2, 9, 16, 20 |
 | **Entregas** | Ate y Lima Este, gratis desde 2 unidades, empresas desde 20 | 10, 14 |
 

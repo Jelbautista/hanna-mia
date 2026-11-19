@@ -124,7 +124,7 @@ Contiene trigo, huevo, leche y frutos secos.
 ## Reel 4 · The Replacement
 
 **Fórmula:** {This thing} replaced {expensive thing} for {price}.  
-**Duración estimada:** ~20 s a 165 palabras por minuto · **Cierre:** CTA reservar
+**Duración estimada:** ~19 s a 165 palabras por minuto · **Cierre:** CTA reservar
 
 > ⚠ Pon el producto y precio reales que reemplaza. No lo exageres.
 
@@ -132,19 +132,19 @@ Contiene trigo, huevo, leche y frutos secos.
 | --- | --- | --- | --- |
 | 0:00.0 | Este de 35 soles reemplaza al de {{precio}}. | S/ 35 vs {{PRECIO}} | Dos panetones lado a lado |
 | 0:02.9 | No es más grande: pesa 900 gramos. | 900 G | Panetón sobre una balanza |
-| 0:05.5 | Lleva harina de cañihua tostada y reposo largo. | CAÑIHUA + REPOSO LARGO | Harina de cañihua tostada |
-| 0:08.4 | Los frutos van deshidratados y partidos, no confitados. | FRUTA PARTIDA | Cuchillo partiendo fruta |
-| 0:11.3 | Tres días de reposo, a mano, en tanda pequeña. | 3 DÍAS, A MANO | Manos doblando la masa |
-| 0:14.6 | Es la preventa: después sube a 45. | PREVENTA S/ 35 | Etiqueta de precio |
-| 0:17.1 | Escribe PANETON y te paso cómo reservar. | ESCRIBE PANETON | Panetón en la mesa |
-| 0:19.6 | Treinta y cinco soles. | S/ 35 | Cierre sobre la etiqueta |
+| 0:05.5 | Lleva cañihua tostada y reposo largo. | CAÑIHUA TOSTADA + REPOSO | Cañihua tostándose |
+| 0:07.6 | Frutos secos y arándanos, deshidratados y partidos. | FRUTOS SECOS + ARÁNDANOS | Cuchillo partiendo arándanos |
+| 0:10.2 | Tres días de reposo, a mano, en tanda pequeña. | 3 DÍAS, A MANO | Manos doblando la masa |
+| 0:13.4 | Es la preventa: después sube a 45. | PREVENTA S/ 35 | Etiqueta de precio |
+| 0:16.0 | Escribe PANETON y te paso cómo reservar. | ESCRIBE PANETON | Panetón en la mesa |
+| 0:18.6 | Treinta y cinco soles. | S/ 35 | Cierre sobre la etiqueta |
 
 **Caption (para pegar):**
 
 ```
 Panetón de 900 g: S/ 35 en preventa, S/ 45 después.
 
-Harina de cañihua, huevos frescos y fruta partida, no confitada. Tres días de reposo. Panetón de Navidad hecho a mano en Lima Este.
+Cañihua tostada, frutos secos y arándanos, deshidratados y partidos. Tres días de reposo. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON y te paso cómo reservar.
 
@@ -338,25 +338,25 @@ Contiene trigo, huevo, leche y frutos secos.
 ## Reel 11 · Numbered With A Favourite
 
 **Fórmula:** {N} {things} that {outcome}. Number {k} is the one nobody uses.  
-**Duración estimada:** ~21 s a 165 palabras por minuto · **Cierre:** CTA enviar
+**Duración estimada:** ~19 s a 165 palabras por minuto · **Cierre:** CTA enviar
 
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | Tres ingredientes. El tres es mi favorito. | 3 INGREDIENTES · EL 3 GANA | Tres ingredientes en fila |
-| 0:02.5 | Uno: harina de cañihua. Sabor tostado, sigue siendo panetón. | 1 · CAÑIHUA | Harina tostada |
-| 0:05.8 | Dos: huevos frescos. La yema entera deja la miga dorada. | 2 · HUEVOS FRESCOS | Yemas |
-| 0:09.4 | Tres: arándanos y frutos secos, deshidratados y partidos. | 3 · FRUTA PARTIDA | Cuchillo partiendo fruta |
-| 0:12.4 | No confitados. Se doblan a mano dentro de la masa. | A MANO, DENTRO | Manos doblando la masa |
-| 0:16.0 | Por eso cada corte tiene algo. | CADA CORTE TIENE ALGO | Corte de panetón |
-| 0:18.2 | Mándaselo a quien prefiere la fruta confitada. | MÁNDASELO | Pantalla del chat |
-| 0:20.7 | El tres. | EL 3 | Fruta partida |
+| 0:02.5 | Uno: cañihua tostada. Sabor tostado, sigue siendo panetón. | 1 · CAÑIHUA TOSTADA | Cañihua tostándose |
+| 0:05.5 | Dos: frutos secos. Deshidratados y partidos. | 2 · FRUTOS SECOS | Frutos secos partidos |
+| 0:07.6 | Tres: arándanos. Deshidratados, no confitados. | 3 · ARÁNDANOS | Arándanos sobre la mesa |
+| 0:09.4 | No confitados. Se doblan a mano dentro de la masa. | A MANO, DENTRO | Manos doblando la masa |
+| 0:13.1 | Por eso cada corte tiene algo. | CADA CORTE TIENE ALGO | Corte de panetón |
+| 0:15.3 | Mándaselo a quien prefiere la fruta confitada. | MÁNDASELO | Pantalla del chat |
+| 0:17.8 | El tres. | EL 3 | Arándanos sobre la mesa |
 
 **Caption (para pegar):**
 
 ```
-Tres ingredientes que se notan al partirlo: cañihua, huevos frescos y fruta partida.
+Tres ingredientes que se notan al partirlo: cañihua tostada, frutos secos y arándanos.
 
-La fruta va deshidratada y partida, no confitada, y se dobla a mano dentro de la masa. Panetón de Navidad hecho a mano en Lima Este.
+Los frutos van deshidratados y partidos, no confitados, y se doblan a mano dentro de la masa. Panetón de Navidad hecho a mano en Lima Este.
 
 Mándaselo a quien prefiere la fruta confitada.
 
@@ -368,7 +368,7 @@ Contiene trigo, huevo, leche y frutos secos.
 ## Reel 12 · The Objection
 
 **Fórmula:** "{Objection they actually say}." Fine. Here is the version that works anyway.  
-**Duración estimada:** ~17 s a 165 palabras por minuto · **Cierre:** CTA reservar
+**Duración estimada:** ~16 s a 165 palabras por minuto · **Cierre:** CTA reservar
 
 > ⚠ Cambia la objeción por la frase exacta que te escribieron, con sus errores.
 
@@ -376,19 +376,19 @@ Contiene trigo, huevo, leche y frutos secos.
 | --- | --- | --- | --- |
 | 0:00.0 | "Es caro." Bien. Mira lo que pagas. | "ES CARO." BIEN. | Tú a cámara con el panetón |
 | 0:02.5 | Tres días de reposo. | 3 DÍAS DE REPOSO | Masa reposando |
-| 0:04.0 | Harina de cañihua tostada y huevos frescos. | CAÑIHUA + HUEVOS | Ingredientes en la mesa |
-| 0:06.5 | Fruta deshidratada y partida, no confitada. | FRUTA PARTIDA | Cuchillo partiendo fruta |
-| 0:08.7 | Hecho a mano, en tandas pequeñas. | A MANO, TANDA PEQUEÑA | Manos con la masa |
-| 0:10.9 | En preventa son 35. Tú decides si lo vale. | PREVENTA S/ 35 | Etiqueta de precio |
-| 0:14.2 | Escribe PANETON si quieres reservarlo. | ESCRIBE PANETON | Teléfono en la mano |
-| 0:16.0 | Es caro. | ¿CARO? | Cierre sobre el panetón |
+| 0:04.0 | Cañihua tostada, frutos secos y arándanos. | 3 INGREDIENTES | Ingredientes en la mesa |
+| 0:06.2 | Deshidratados y partidos, no confitados. | DESHIDRATADOS Y PARTIDOS | Cuchillo partiendo fruta |
+| 0:08.0 | Hecho a mano, en tandas pequeñas. | A MANO, TANDA PEQUEÑA | Manos con la masa |
+| 0:10.2 | En preventa son 35. Tú decides si lo vale. | PREVENTA S/ 35 | Etiqueta de precio |
+| 0:13.4 | Escribe PANETON si quieres reservarlo. | ESCRIBE PANETON | Teléfono en la mano |
+| 0:15.3 | Es caro. | ¿CARO? | Cierre sobre el panetón |
 
 **Caption (para pegar):**
 
 ```
 Esto hay detrás de un panetón de S/ 45: tres días de reposo.
 
-Cañihua tostada, huevos frescos y fruta partida, hecho a mano en tandas pequeñas. En preventa, S/ 35. Panetón de Navidad hecho a mano en Lima Este.
+Cañihua tostada, frutos secos y arándanos, hecho a mano en tandas pequeñas. En preventa, S/ 35. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON si quieres reservarlo.
 
@@ -555,25 +555,24 @@ Contiene trigo, huevo, leche y frutos secos.
 ## Reel 18 · Cold Open Demo
 
 **Fórmula:** {Start mid-action, already doing the thing.} Watch what this does.  
-**Duración estimada:** ~16 s a 165 palabras por minuto · **Cierre:** CTA reservar
+**Duración estimada:** ~15 s a 165 palabras por minuto · **Cierre:** CTA reservar
 
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | Mira dentro de un panetón de tres días. | 3 DÍAS ADENTRO | Cuchillo ya cortando, primer plano |
 | 0:02.9 | Miga abierta. | MIGA ABIERTA | Corte lento |
-| 0:03.6 | La yema entera deja el color dorado. | YEMA ENTERA = DORADO | Miga cerca de la cámara |
-| 0:06.2 | Fruta partida en cada corte. | FRUTA EN CADA CORTE | Cuchillo atravesando |
-| 0:08.0 | El sabor tostado viene de la cañihua. | SABOR TOSTADO: CAÑIHUA | Porción servida |
-| 0:10.6 | Todo eso son tres días. | 3 DÍAS | Panetón entero |
-| 0:12.4 | Escribe PANETON y te cuento cómo reservar. | ESCRIBE PANETON | Teléfono en la mano |
-| 0:14.9 | Tres días, por dentro. | 3 DÍAS | Corte |
+| 0:03.6 | Frutos secos y arándanos en cada corte. | ARÁNDANOS EN CADA CORTE | Cuchillo atravesando |
+| 0:06.2 | El sabor tostado viene de la cañihua tostada. | SABOR TOSTADO: CAÑIHUA | Porción servida |
+| 0:09.1 | Todo eso son tres días. | 3 DÍAS | Panetón entero |
+| 0:10.9 | Escribe PANETON y te cuento cómo reservar. | ESCRIBE PANETON | Teléfono en la mano |
+| 0:13.4 | Tres días, por dentro. | 3 DÍAS | Corte |
 
 **Caption (para pegar):**
 
 ```
-Así se ve por dentro un panetón de tres días: miga abierta y fruta partida en cada corte.
+Así se ve por dentro un panetón de tres días: miga abierta y arándanos en cada corte.
 
-Yema entera para el color dorado y cañihua tostada para el sabor. Panetón de Navidad hecho a mano en Lima Este.
+Cañihua tostada para el sabor, frutos secos y arándanos partidos. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON y te cuento cómo reservar.
 
@@ -797,25 +796,25 @@ Contiene trigo, huevo, leche y frutos secos.
 ## Reel 26 · The Superlative
 
 **Fórmula:** The {fastest / biggest / only} {thing} is {the answer}.  
-**Duración estimada:** ~15 s a 165 palabras por minuto · **Cierre:** CTA guardar
+**Duración estimada:** ~16 s a 165 palabras por minuto · **Cierre:** CTA guardar
 
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | Un buen panetón se reconoce al partirlo. | PÁRTELO | Cuchillo cortando de golpe |
-| 0:02.5 | Fruta en cada corte. | FRUTA EN CADA CORTE | Corte con fruta |
-| 0:04.0 | Miga abierta. | MIGA ABIERTA | Primer plano de la miga |
-| 0:04.7 | Color dorado, de yema entera. | DORADO DE YEMA | Miga cerca de la cámara |
-| 0:06.5 | Si la fruta es confitada, lo notas al primer bocado. | ¿CONFITADA? SE NOTA | Primer bocado |
-| 0:10.2 | Aquí va deshidratada y partida. | DESHIDRATADA Y PARTIDA | Fruta partida a mano |
-| 0:12.0 | Guarda este video para elegir bien. | GUÁRDALO | Panetón en la mesa |
-| 0:14.2 | Al partirlo. | PÁRTELO | Cierre |
+| 0:02.5 | Frutos secos y arándanos en cada corte. | ARÁNDANOS EN CADA CORTE | Corte con fruta |
+| 0:05.1 | Miga abierta. | MIGA ABIERTA | Primer plano de la miga |
+| 0:05.8 | Sabor tostado, de cañihua. | SABOR TOSTADO | Miga cerca de la cámara |
+| 0:07.3 | Si la fruta es confitada, lo notas al primer bocado. | ¿CONFITADA? SE NOTA | Primer bocado |
+| 0:10.9 | Aquí van deshidratados y partidos. | DESHIDRATADOS Y PARTIDOS | Arándanos partidos a mano |
+| 0:12.7 | Guarda este video para elegir bien. | GUÁRDALO | Panetón en la mesa |
+| 0:14.9 | Al partirlo. | PÁRTELO | Cierre |
 
 **Caption (para pegar):**
 
 ```
-Un buen panetón se reconoce al partirlo: fruta en cada corte, miga abierta y color dorado.
+Un buen panetón se reconoce al partirlo: frutos secos y arándanos en cada corte, y miga abierta.
 
-Aquí la fruta va deshidratada y partida, no confitada. Panetón de Navidad hecho a mano en Lima Este.
+Aquí los frutos van deshidratados y partidos, no confitados. Panetón de Navidad hecho a mano en Lima Este.
 
 Guarda este video para elegir bien.
 

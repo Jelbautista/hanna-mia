@@ -10,7 +10,7 @@ confirmarlo antes de grabar. Escribe en español de Perú.
 
 - **Nombre:** Horno Mía
 - **Handle:** {{pendiente}}
-- **Qué hago, en una frase:** Hornea panetón de 900 g, hecho a mano, con harina de cañihua, frutos secos y arándanos, en lotes pequeños y por encargo.
+- **Qué hago, en una frase:** Hornea panetón de 900 g, hecho a mano, con cañihua tostada, frutos secos y arándanos, en lotes pequeños y por encargo.
 - **A quién le hablo:** Familias y personas de Lima Este (Ate) que compran panetón para regalar o para la mesa de Navidad y notan la diferencia entre uno industrial y uno hecho con días de reposo. También empresas que quieren regalos corporativos (desde 20 unidades).
 - **Qué vendo:** Panetón Horno Mía de 900 g. Preventa S/ 35 por tiempo limitado, precio regular S/ 45. También hay versión de café. Reserva con 50 % de adelanto por WhatsApp. Entrega en Ate y Lima Este, gratis desde 2 unidades en zonas definidas.
 
@@ -59,7 +59,7 @@ Solo lo que está en la web y es mío:
 - La masa se refresca cada día durante semanas.
 - 12 horas colgado boca abajo para que la miga se estire y la cúpula no se hunda.
 - 900 g por panetón. Preventa S/ 35, regular S/ 45.
-- Ingredientes: harina de cañihua tostada, huevos frescos (yema entera), arándanos y frutos secos deshidratados y partidos.
+- Ingredientes, siempre así: **cañihua tostada, frutos secos y arándanos**, deshidratados y partidos, no confitados.
 - Conservación: semanas sin abrir; dos o tres días abierto.
 
 No hay aún cifras de ventas, reseñas ni clientes citables. Si un guion las necesita, que salga `{{tu cifra}}` y se pregunte.

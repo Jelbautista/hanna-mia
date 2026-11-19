@@ -24,7 +24,7 @@ Fórmula del gancho: #3 Nadie te dice / contraste industrial / hecho a mano  · 
 Tres días. Así tarda un panetón de verdad.
 Y se nota apenas lo partes.
 La masa se refresca cada día, durante semanas.
-Lleva harina de cañihua tostada.
+Lleva cañihua tostada.
 Dos amasados, con horas de reposo en medio.
 Después, el horno.
 El industrial lo hace en horas. Nosotros, en días.
@@ -39,7 +39,7 @@ Tres días.
 0:00 72 HORAS DE REPOSO
 0:03 SE NOTA AL PARTIRLO
 0:05 LA MASA, CADA DÍA
-0:08 HARINA DE CAÑIHUA
+0:08 CAÑIHUA TOSTADA
 0:10 2 AMASADOS + REPOSO
 0:13 DESPUÉS, EL HORNO
 0:14 HORAS vs DÍAS
@@ -93,9 +93,9 @@ Fórmula del gancho: #20 Permiso / posición de marca  ·  duración estimada: ~
 ```
 Si la lista de ingredientes es larga, desconfía.
 La nuestra se explica en tres cosas.
-Uno: harina de cañihua. Sabor tostado, sin dejar de ser panetón.
-Dos: huevos frescos. Yema entera, por eso la miga sale dorada.
-Tres: arándanos y frutos secos. Deshidratados y partidos, no confitados.
+Uno: cañihua tostada. Sabor tostado, sin dejar de ser panetón.
+Dos: frutos secos. Deshidratados y partidos.
+Tres: arándanos. Deshidratados, no confitados.
 Y un reposo largo, que lleva días.
 Preventa a treinta y cinco soles. Escribe PANETON.
 Lista larga, desconfía.
@@ -106,9 +106,9 @@ Lista larga, desconfía.
 ```
 0:00 LISTA LARGA = DESCONFÍA
 0:03 3 COSAS
-0:05 1 · HARINA DE CAÑIHUA
-0:09 2 · HUEVOS FRESCOS
-0:13 3 · ARÁNDANOS Y FRUTOS SECOS
+0:05 1 · CAÑIHUA TOSTADA
+0:09 2 · FRUTOS SECOS
+0:13 3 · ARÁNDANOS
 0:17 + REPOSO LARGO
 0:20 PREVENTA S/ 35 · PANETON
 0:22 LISTA LARGA, DESCONFÍA
