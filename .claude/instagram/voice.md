@@ -1,6 +1,6 @@
 # voice.md — Horno Mía
 
-Perfil de voz para las skills `ig-*`. escrito a partir del copy del sitio web (la marca se usa como "Horno Mía"; ignorar "Hanna" y "Lento")
+Perfil de voz para las skills `ig-*`. Escrito a partir del copy del sitio web
 (`index.html`), no de reels reales. Todo lo marcado **{{pendiente}}** hay que
 confirmarlo antes de grabar. Escribe en español de Perú.
 
