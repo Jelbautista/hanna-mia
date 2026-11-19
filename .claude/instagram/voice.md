@@ -1,6 +1,6 @@
-# voice.md — Hanna Mia
+# voice.md — Horno Mía
 
-Perfil de voz para las skills `ig-*`. Escrito a partir del copy del sitio web
+Perfil de voz para las skills `ig-*`. escrito a partir del copy del sitio web (la marca se usa como "Horno Mía"; ignorar "Hanna" y "Lento")
 (`index.html`), no de reels reales. Todo lo marcado **{{pendiente}}** hay que
 confirmarlo antes de grabar. Escribe en español de Perú.
 
@@ -8,11 +8,11 @@ confirmarlo antes de grabar. Escribe en español de Perú.
 
 ## Quién soy
 
-- **Nombre:** Hanna Mia
+- **Nombre:** Horno Mía
 - **Handle:** {{pendiente}}
 - **Qué hago, en una frase:** Hornea panetón artesanal de 900 g con harina de cañihua, frutos secos y arándanos, en lotes pequeños y por encargo.
 - **A quién le hablo:** Familias y personas de Lima Este (Ate) que compran panetón para regalar o para la mesa de Navidad y notan la diferencia entre uno industrial y uno de masa madre. También empresas que quieren regalos corporativos (desde 20 unidades).
-- **Qué vendo:** Panetón Hanna Mia de 900 g. Preventa S/ 35 por tiempo limitado, precio regular S/ 45. También hay versión de café. Reserva con 50 % de adelanto por WhatsApp. Entrega en Ate y Lima Este, gratis desde 2 unidades en zonas definidas.
+- **Qué vendo:** Panetón Horno Mía de 900 g. Preventa S/ 35 por tiempo limitado, precio regular S/ 45. También hay versión de café. Reserva con 50 % de adelanto por WhatsApp. Entrega en Ate y Lima Este, gratis desde 2 unidades en zonas definidas.
 
 ## Cómo sueno
 
