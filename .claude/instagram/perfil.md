@@ -15,16 +15,16 @@ Instagram busca en este campo. Elige una:
 
 | Opción | Caracteres |
 | --- | --- |
-| `Horno Mía \| Panetón artesanal` | 29 |
 | `Horno Mía \| Panetón Lima Este` | 29 |
-| `Horno Mía \| Panetón masa madre` | 30 |
+| `Horno Mía \| Panetón en Lima` | 27 |
+| `Horno Mía \| Panetón 72 horas` | 28 |
 
-Recomendada: **Horno Mía | Panetón artesanal**, porque es lo que la gente teclea. Cámbiala por la de Lima Este cuando tu público sea sobre todo de la zona.
+Recomendada: **Horno Mía | Panetón Lima Este**, porque dice qué vendes y dónde. Si vendes a más zonas, usa la de 72 horas.
 
-## 2. Bio (150 caracteres; esta tiene 133)
+## 2. Bio (150 caracteres; esta tiene 128)
 
 ```
-Panetón de masa madre, hecho en 72 horas.
+Panetón hecho en 72 horas de reposo.
 Cañihua, huevos frescos y fruta partida. Lima Este.
 Preventa S/ 35 · Reserva por WhatsApp 👇
 ```

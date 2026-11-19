@@ -52,13 +52,13 @@ Los otros 14 se pueden grabar hoy mismo con lo que ya dice la web.
 ```
 {{Monto}} soles me costó {{un error real}}. Hoy cada tanda sale con una regla nueva.
 
-Panetón de masa madre, hecho a mano en tandas pequeñas. Panetón artesanal de masa madre, en Lima Este.
+Panetón hecho a mano, en tandas pequeñas. Panetón de Navidad hecho a mano en Lima Este.
 
 Reserva el tuyo: escribe PANETON.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 2 · Negative Command
@@ -82,43 +82,43 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 No guardes tu panetón en la nevera: el frío reseca la miga.
 
-Sin abrir, sobre la mesa y lejos del calor. Abierto, en su envoltorio o en bolsa hermética, 2 o 3 días. Panetón artesanal de masa madre, en Lima Este.
+Sin abrir, sobre la mesa y lejos del calor. Abierto, en su envoltorio o en bolsa hermética, 2 o 3 días. Panetón de Navidad hecho a mano en Lima Este.
 
 Guarda este video para diciembre.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 3 · Nobody Tells You
 
 **Fórmula:** Nobody tells you that {uncomfortable truth about the thing they want}.  
-**Duración estimada:** ~21 s a 165 palabras por minuto · **Cierre:** CTA enviar
+**Duración estimada:** ~20 s a 165 palabras por minuto · **Cierre:** CTA enviar
 
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | Tu panetón se reseca. Te digo por qué. | ¿POR QUÉ SE RESECA? | Panetón cortado en la mesa |
 | 0:02.9 | Casi nunca es por el tiempo. | NO ES EL TIEMPO | Calendario pasando días |
 | 0:05.1 | Es por cómo lo guardas. | ES CÓMO LO GUARDAS | Panetón en la nevera |
-| 0:06.9 | Sin abrir, la masa madre lo conserva semanas. | MASA MADRE: SEMANAS | Masa madre en su frasco |
-| 0:09.8 | Ya abierto, envoltorio o bolsa hermética. | ENVOLTORIO O BOLSA | Mano envolviendo una porción |
-| 0:12.0 | Dos o tres días y está en su punto. | 2 A 3 DÍAS | Porción servida |
-| 0:15.3 | Mándaselo a quien lo guarda en la nevera. | MÁNDASELO | Pantalla del chat con el video |
-| 0:18.2 | Se estropea por sed, no por prisa. | SED, NO PRISA | Panetón sobre la mesa |
+| 0:06.9 | Sin abrir, se conserva semanas. | SIN ABRIR: SEMANAS | Panetón cerrado |
+| 0:08.7 | Ya abierto, envoltorio o bolsa hermética. | ENVOLTORIO O BOLSA | Mano envolviendo una porción |
+| 0:10.9 | Dos o tres días y está en su punto. | 2 A 3 DÍAS | Porción servida |
+| 0:14.2 | Mándaselo a quien lo guarda en la nevera. | MÁNDASELO | Pantalla del chat con el video |
+| 0:17.1 | Se estropea por sed, no por prisa. | SED, NO PRISA | Panetón sobre la mesa |
 
 **Caption (para pegar):**
 
 ```
 Un panetón no se estropea por prisa, se estropea por sed.
 
-Sin abrir, la masa madre lo conserva semanas. Ya abierto, 2 o 3 días. Panetón artesanal de masa madre, en Lima Este.
+Sin abrir, se conserva semanas. Ya abierto, 2 o 3 días. Panetón de Navidad hecho a mano en Lima Este.
 
 Mándaselo a quien lo guarda en la nevera.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 4 · The Replacement
@@ -132,7 +132,7 @@ Contiene trigo, huevo, leche y frutos secos.
 | --- | --- | --- | --- |
 | 0:00.0 | Este de 35 soles reemplaza al de {{precio}}. | S/ 35 vs {{PRECIO}} | Dos panetones lado a lado |
 | 0:02.9 | No es más grande: pesa 900 gramos. | 900 G | Panetón sobre una balanza |
-| 0:05.5 | Lleva masa madre y harina de cañihua tostada. | MASA MADRE + CAÑIHUA | Frasco de masa madre y harina |
+| 0:05.5 | Lleva harina de cañihua tostada y reposo largo. | CAÑIHUA + REPOSO LARGO | Harina de cañihua tostada |
 | 0:08.4 | Los frutos van deshidratados y partidos, no confitados. | FRUTA PARTIDA | Cuchillo partiendo fruta |
 | 0:11.3 | Tres días de reposo, a mano, en tanda pequeña. | 3 DÍAS, A MANO | Manos doblando la masa |
 | 0:14.6 | Es la preventa: después sube a 45. | PREVENTA S/ 35 | Etiqueta de precio |
@@ -142,45 +142,45 @@ Contiene trigo, huevo, leche y frutos secos.
 **Caption (para pegar):**
 
 ```
-Panetón artesanal de 900 g: S/ 35 en preventa, S/ 45 después.
+Panetón de 900 g: S/ 35 en preventa, S/ 45 después.
 
-Masa madre, harina de cañihua y fruta partida, no confitada. Tres días de reposo.
+Harina de cañihua, huevos frescos y fruta partida, no confitada. Tres días de reposo. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON y te paso cómo reservar.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 5 · Time Collapse
 
 **Fórmula:** This used to take me {long time}. It now takes {short time}.  
-**Duración estimada:** ~17 s a 165 palabras por minuto · **Cierre:** CTA enviar
+**Duración estimada:** ~16 s a 165 palabras por minuto · **Cierre:** CTA enviar
 
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | Industrial: horas. El nuestro: tres días. | HORAS → 72 HORAS | Reloj acelerado y luego quieto |
 | 0:02.2 | No hay atajo. | SIN ATAJO | Masa reposando |
-| 0:03.3 | La masa madre se refresca cada día, durante semanas. | CADA DÍA, SEMANAS | Mano alimentando la masa madre |
-| 0:06.5 | Dos amasados, con horas de reposo en medio. | 2 AMASADOS | Manos amasando |
-| 0:09.4 | Después, el horno. | DESPUÉS, EL HORNO | Puerta del horno |
-| 0:10.6 | Si lo apuras, la miga lo cuenta. | LA MIGA LO CUENTA | Corte de panetón |
-| 0:13.1 | Mándaselo a quien sigue comprando por la caja. | MÁNDASELO | Pantalla del chat |
-| 0:16.0 | Tres días. | 72 HORAS | Reloj quieto |
+| 0:03.3 | La masa se refresca cada día, durante semanas. | CADA DÍA, SEMANAS | Mano alimentando la masa |
+| 0:06.2 | Dos amasados, con horas de reposo en medio. | 2 AMASADOS | Manos amasando |
+| 0:09.1 | Después, el horno. | DESPUÉS, EL HORNO | Puerta del horno |
+| 0:10.2 | Si lo apuras, la miga lo cuenta. | LA MIGA LO CUENTA | Corte de panetón |
+| 0:12.7 | Mándaselo a quien sigue comprando por la caja. | MÁNDASELO | Pantalla del chat |
+| 0:15.6 | Tres días. | 72 HORAS | Reloj quieto |
 
 **Caption (para pegar):**
 
 ```
 Un panetón industrial sale en horas. El nuestro tarda tres días.
 
-Masa madre que se refresca cada día, dos amasados y horas de reposo. Sin atajos. Panetón artesanal de masa madre, en Lima Este.
+La masa se refresca cada día, con dos amasados y horas de reposo. Sin atajos. Panetón de Navidad hecho a mano en Lima Este.
 
 Mándaselo a quien compra panetón de caja.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 6 · The Receipt
@@ -205,13 +205,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 {{N}} semanas horneando una tanda por semana. Estos son los números reales.
 
-{{N}} reservas y {{N}} panetones entregados. Panetón artesanal de masa madre, en Lima Este.
+{{N}} reservas y {{N}} panetones entregados. Panetón de Navidad hecho a mano en Lima Este.
 
 Reserva el tuyo: escribe PANETON.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 7 · Wrong Way, Right Way
@@ -235,13 +235,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 ¿Panetón duro? Calienta solo la porción unos segundos y sírvela tibia.
 
-El frío de la nevera le saca la humedad a la miga. Mejor sobre la mesa, en su envoltorio. Panetón artesanal de masa madre, en Lima Este.
+El frío de la nevera le saca la humedad a la miga. Mejor sobre la mesa, en su envoltorio. Panetón de Navidad hecho a mano en Lima Este.
 
 Guarda este video para cuando sobre.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 8 · Insider Leak
@@ -267,13 +267,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Lo que no sale en la caja del panetón: cuántas horas reposó la masa.
 
-Llevo {{N}} años horneando. El industrial sale en horas, el nuestro en tres días. Panetón artesanal de masa madre, en Lima Este.
+Llevo {{N}} años horneando. El industrial sale en horas, el nuestro en tres días. Panetón de Navidad hecho a mano en Lima Este.
 
 Mándaselo a quien compra panetón cada año.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 9 · The Steal
@@ -296,13 +296,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Cuida tu panetón en tres pasos: mesa, envoltorio y nunca nevera.
 
-Sin abrir dura semanas; abierto, 2 o 3 días. Panetón artesanal de masa madre, en Lima Este.
+Sin abrir dura semanas; abierto, 2 o 3 días. Panetón de Navidad hecho a mano en Lima Este.
 
 Haz captura de pantalla.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 10 · If This, Then Watch
@@ -326,13 +326,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Panetón en Ate y Lima Este: reserva con 50 % de adelanto por WhatsApp.
 
-Preventa S/ 35, luego S/ 45. Confirmamos tu fecha cuando cierra la tanda. Entrega gratis desde 2 unidades en zonas definidas. Panetón artesanal de masa madre, en Lima Este.
+Preventa S/ 35, luego S/ 45. Confirmamos tu fecha cuando cierra la tanda. Entrega gratis desde 2 unidades en zonas definidas. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON y te paso el enlace.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 11 · Numbered With A Favourite
@@ -342,7 +342,7 @@ Contiene trigo, huevo, leche y frutos secos.
 
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
-| 0:00.0 | Tres ingredientes. El tres es mi favorito. | 3 INGREDIENTES. EL 3 ES EL BUENO. | Tres ingredientes en fila |
+| 0:00.0 | Tres ingredientes. El tres es mi favorito. | 3 INGREDIENTES · EL 3 GANA | Tres ingredientes en fila |
 | 0:02.5 | Uno: harina de cañihua. Sabor tostado, sigue siendo panetón. | 1 · CAÑIHUA | Harina tostada |
 | 0:05.8 | Dos: huevos frescos. La yema entera deja la miga dorada. | 2 · HUEVOS FRESCOS | Yemas |
 | 0:09.4 | Tres: arándanos y frutos secos, deshidratados y partidos. | 3 · FRUTA PARTIDA | Cuchillo partiendo fruta |
@@ -356,13 +356,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Tres ingredientes que se notan al partirlo: cañihua, huevos frescos y fruta partida.
 
-La fruta va deshidratada y partida, no confitada, y se dobla a mano dentro de la masa. Panetón artesanal de masa madre, en Lima Este.
+La fruta va deshidratada y partida, no confitada, y se dobla a mano dentro de la masa. Panetón de Navidad hecho a mano en Lima Este.
 
 Mándaselo a quien prefiere la fruta confitada.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 12 · The Objection
@@ -375,26 +375,26 @@ Contiene trigo, huevo, leche y frutos secos.
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | "Es caro." Bien. Mira lo que pagas. | "ES CARO." BIEN. | Tú a cámara con el panetón |
-| 0:02.5 | Tres días de masa madre. | 3 DÍAS DE MASA MADRE | Frasco de masa madre |
-| 0:04.4 | Harina de cañihua tostada y huevos frescos. | CAÑIHUA + HUEVOS | Ingredientes en la mesa |
-| 0:06.9 | Fruta deshidratada y partida, no confitada. | FRUTA PARTIDA | Cuchillo partiendo fruta |
-| 0:09.1 | Hecho a mano, en tandas pequeñas. | A MANO, TANDA PEQUEÑA | Manos con la masa |
-| 0:11.3 | En preventa son 35. Tú decides si lo vale. | PREVENTA S/ 35 | Etiqueta de precio |
-| 0:14.6 | Escribe PANETON si quieres reservarlo. | ESCRIBE PANETON | Teléfono en la mano |
-| 0:16.4 | Es caro. | ¿CARO? | Cierre sobre el panetón |
+| 0:02.5 | Tres días de reposo. | 3 DÍAS DE REPOSO | Masa reposando |
+| 0:04.0 | Harina de cañihua tostada y huevos frescos. | CAÑIHUA + HUEVOS | Ingredientes en la mesa |
+| 0:06.5 | Fruta deshidratada y partida, no confitada. | FRUTA PARTIDA | Cuchillo partiendo fruta |
+| 0:08.7 | Hecho a mano, en tandas pequeñas. | A MANO, TANDA PEQUEÑA | Manos con la masa |
+| 0:10.9 | En preventa son 35. Tú decides si lo vale. | PREVENTA S/ 35 | Etiqueta de precio |
+| 0:14.2 | Escribe PANETON si quieres reservarlo. | ESCRIBE PANETON | Teléfono en la mano |
+| 0:16.0 | Es caro. | ¿CARO? | Cierre sobre el panetón |
 
 **Caption (para pegar):**
 
 ```
-Esto hay detrás de un panetón de S/ 45: tres días de masa madre.
+Esto hay detrás de un panetón de S/ 45: tres días de reposo.
 
-Cañihua tostada, huevos frescos y fruta partida, hecho a mano en tandas pequeñas. En preventa, S/ 35. Panetón artesanal de masa madre, en Lima Este.
+Cañihua tostada, huevos frescos y fruta partida, hecho a mano en tandas pequeñas. En preventa, S/ 35. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON si quieres reservarlo.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 13 · Before And After, On Screen
@@ -419,43 +419,43 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Día 1 y día 3: la misma masa. Cambió una sola cosa, el tiempo.
 
-A las 72 horas suelta el borde del bol y respira. Panetón artesanal de masa madre, en Lima Este.
+A las 72 horas suelta el borde del bol y respira. Panetón de Navidad hecho a mano en Lima Este.
 
 Mándaselo a quien no cree en esperar.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 14 · The Callout
 
 **Fórmula:** {Specific group}, this is the one you have been ignoring.  
-**Duración estimada:** ~19 s a 165 palabras por minuto · **Cierre:** CTA escribir
+**Duración estimada:** ~17 s a 165 palabras por minuto · **Cierre:** CTA escribir
 
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | Empresas de Lima Este: el regalo que ignoran. | EMPRESAS DE LIMA ESTE | Caja de panetón sobre un escritorio |
 | 0:02.9 | Desde 20 unidades hay tarifa por volumen. | DESDE 20: TARIFA POR VOLUMEN | Cajas apiladas |
-| 0:05.5 | Panetón artesanal de 900 gramos. | ARTESANAL, 900 G | Panetón en su caja |
-| 0:07.3 | Masa madre, tres días de reposo. | MASA MADRE, 3 DÍAS | Frasco de masa madre |
-| 0:09.4 | Hecho en tandas pequeñas, según lo reservado. | TANDAS PEQUEÑAS | Hornada saliendo |
-| 0:12.0 | Entregamos en Ate y Lima Este. | ATE Y LIMA ESTE | Caja entregada en una oficina |
-| 0:14.2 | Escríbenos por WhatsApp si compras para tu equipo. | ESCRÍBENOS POR WHATSAPP | Teléfono con el chat |
-| 0:17.1 | Empresas de Lima Este. | DESDE 20 | Cajas apiladas |
+| 0:05.5 | Panetón de 900 gramos. | 900 G | Panetón en su caja |
+| 0:06.9 | Tres días de reposo. | 3 DÍAS DE REPOSO | Masa reposando |
+| 0:08.4 | Hecho en tandas pequeñas, según lo reservado. | TANDAS PEQUEÑAS | Hornada saliendo |
+| 0:10.9 | Entregamos en Ate y Lima Este. | ATE Y LIMA ESTE | Caja entregada en una oficina |
+| 0:13.1 | Escríbenos por WhatsApp si compras para tu equipo. | ESCRÍBENOS POR WHATSAPP | Teléfono con el chat |
+| 0:16.0 | Empresas de Lima Este. | DESDE 20 | Cajas apiladas |
 
 **Caption (para pegar):**
 
 ```
-Panetón artesanal para empresas de Lima Este: desde 20 unidades, tarifa por volumen.
+Panetón para empresas de Lima Este: desde 20 unidades, tarifa por volumen.
 
-900 g, masa madre, tandas pequeñas. Entregamos en Ate y Lima Este.
+900 g, tres días de reposo, tandas pequeñas. Entregamos en Ate y Lima Este. Panetón de Navidad hecho a mano en Lima Este.
 
 Escríbenos por WhatsApp si compras para tu equipo.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 15 · The Flop Record
@@ -480,19 +480,19 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Mis primeras {{N}} tandas no salieron como quería. En la {{N+1}} cambió una cosa.
 
-{{El cambio real}}. Hoy cada panetón lleva tres días de reposo. Panetón artesanal de masa madre, en Lima Este.
+{{El cambio real}}. Hoy cada panetón lleva tres días de reposo. Panetón de Navidad hecho a mano en Lima Este.
 
 Reserva el tuyo: escribe PANETON.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 16 · The Verbatim Question
 
 **Fórmula:** "{Question exactly as it was asked}" - I get this every week.  
-**Duración estimada:** ~15 s a 165 palabras por minuto · **Cierre:** CTA guardar
+**Duración estimada:** ~13 s a 165 palabras por minuto · **Cierre:** CTA guardar
 
 > ⚠ Cambia la pregunta por la frase exacta con la que te la escriben.
 
@@ -500,25 +500,24 @@ Contiene trigo, huevo, leche y frutos secos.
 | --- | --- | --- | --- |
 | 0:00.0 | "¿Cuánto dura un panetón?" Cada diciembre. | "¿CUÁNTO DURA?" | Tú a cámara con el panetón |
 | 0:02.2 | Sin abrir, semanas. | SIN ABRIR: SEMANAS | Panetón cerrado |
-| 0:03.3 | La masa madre lo conserva. | MASA MADRE | Frasco de masa madre |
-| 0:05.1 | Ya abierto, dos o tres días. | ABIERTO: 2 A 3 DÍAS | Panetón abierto |
-| 0:07.3 | En su envoltorio o en bolsa hermética. | ENVOLTORIO O BOLSA | Mano cerrando la bolsa |
-| 0:09.8 | Siempre lejos del calor, nunca en la nevera. | LEJOS DEL CALOR. NUNCA NEVERA. | Panetón sobre la mesa |
-| 0:12.7 | Guarda este video para diciembre. | GUÁRDALO | Panetón en la mesa de Navidad |
-| 0:14.6 | ¿Cuánto dura? | ¿CUÁNTO DURA? | Cierre |
+| 0:03.3 | Ya abierto, dos o tres días. | ABIERTO: 2 A 3 DÍAS | Panetón abierto |
+| 0:05.5 | En su envoltorio o en bolsa hermética. | ENVOLTORIO O BOLSA | Mano cerrando la bolsa |
+| 0:08.0 | Siempre lejos del calor, nunca en la nevera. | LEJOS DEL CALOR. NUNCA NEVERA. | Panetón sobre la mesa |
+| 0:10.9 | Guarda este video para diciembre. | GUÁRDALO | Panetón en la mesa de Navidad |
+| 0:12.7 | ¿Cuánto dura? | ¿CUÁNTO DURA? | Cierre |
 
 **Caption (para pegar):**
 
 ```
 ¿Cuánto dura un panetón? Sin abrir, semanas; abierto, 2 o 3 días.
 
-Siempre lejos del calor y nunca en la nevera. Panetón artesanal de masa madre, en Lima Este.
+Siempre lejos del calor y nunca en la nevera. Panetón de Navidad hecho a mano en Lima Este.
 
 Guarda este video para diciembre.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 17 · Head To Head
@@ -544,13 +543,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Nevera contra mesa: dos panetones, tres días y un corte.
 
-{{Lo que se vio en la miga de cada uno}}. Panetón artesanal de masa madre, en Lima Este.
+{{Lo que se vio en la miga de cada uno}}. Panetón de Navidad hecho a mano en Lima Este.
 
 ¿Dónde guardas el tuyo? Cuéntame en los comentarios.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 18 · Cold Open Demo
@@ -574,13 +573,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Así se ve por dentro un panetón de tres días: miga abierta y fruta partida en cada corte.
 
-Yema entera para el color dorado y cañihua tostada para el sabor. Panetón artesanal de masa madre, en Lima Este.
+Yema entera para el color dorado y cañihua tostada para el sabor. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON y te cuento cómo reservar.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 19 · The Deadline
@@ -603,13 +602,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Este panetón sube de S/ 35 a S/ 45 cuando se acabe el lote de preventa.
 
-No hay fecha fija: cada tanda se hornea según lo ya reservado. Panetón artesanal de masa madre, en Lima Este.
+No hay fecha fija: cada tanda se hornea según lo ya reservado. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON antes de que se acabe.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 20 · Permission
@@ -633,43 +632,43 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 No necesitas terminarte el panetón el mismo día.
 
-Sin abrir aguanta semanas; abierto, 2 o 3 días en bolsa hermética. Si sobra, calienta la porción unos segundos. Panetón artesanal de masa madre, en Lima Este.
+Sin abrir aguanta semanas; abierto, 2 o 3 días en bolsa hermética. Si sobra, calienta la porción unos segundos. Panetón de Navidad hecho a mano en Lima Este.
 
 Guarda este video para la Nochebuena.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 21 · Mid-Sentence Start
 
 **Fórmula:** {...and that is when {the turn}.}  
-**Duración estimada:** ~19 s a 165 palabras por minuto · **Cierre:** CTA enviar
+**Duración estimada:** ~18 s a 165 palabras por minuto · **Cierre:** CTA enviar
 
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | ...y recién ahí soltó el borde del bol. | ...Y RECIÉN AHÍ | Masa soltando el borde, ya en movimiento |
 | 0:02.9 | Habían pasado setenta y dos horas. | 72 HORAS DESPUÉS | Reloj con el contador |
-| 0:04.4 | La masa madre se refresca cada día, durante semanas. | CADA DÍA, SEMANAS | Mano alimentando la masa madre |
-| 0:07.6 | Dos amasados, con horas de reposo en medio. | 2 AMASADOS | Manos amasando |
-| 0:10.6 | Ese momento no se puede apurar. | NO SE APURA | Primer plano de la masa |
-| 0:12.7 | Así empieza cada panetón de Horno Mía. | HORNO MÍA | Panetón terminado |
-| 0:15.3 | Mándaselo a quien no tiene paciencia. | MÁNDASELO | Pantalla del chat |
-| 0:17.4 | ...y recién ahí. | ...Y RECIÉN AHÍ | Cierre sobre la masa |
+| 0:04.4 | La masa se refresca cada día, durante semanas. | CADA DÍA, SEMANAS | Mano alimentando la masa |
+| 0:07.3 | Dos amasados, con horas de reposo en medio. | 2 AMASADOS | Manos amasando |
+| 0:10.2 | Ese momento no se puede apurar. | NO SE APURA | Primer plano de la masa |
+| 0:12.4 | Así empieza cada panetón de Horno Mía. | HORNO MÍA | Panetón terminado |
+| 0:14.9 | Mándaselo a quien no tiene paciencia. | MÁNDASELO | Pantalla del chat |
+| 0:17.1 | ...y recién ahí. | ...Y RECIÉN AHÍ | Cierre sobre la masa |
 
 **Caption (para pegar):**
 
 ```
 72 horas después, la masa suelta el borde del bol.
 
-Así empieza cada panetón de Horno Mía: masa madre, cañihua y paciencia. Panetón artesanal de masa madre, en Lima Este.
+Así empieza cada panetón de Horno Mía: cañihua, tiempo y paciencia. Panetón de Navidad hecho a mano en Lima Este.
 
 Mándaselo a quien no tiene paciencia.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 22 · Contrarian Flip
@@ -694,13 +693,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Lo bueno, si largo, dos veces bueno: 72 horas de reposo y 12 colgado boca abajo.
 
-Panetón de masa madre, a mano y en tandas pequeñas. Panetón artesanal de masa madre, en Lima Este.
+Panetón hecho a mano y en tandas pequeñas. Panetón de Navidad hecho a mano en Lima Este.
 
 Mándaselo a alguien impaciente.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 23 · The Statistic
@@ -725,13 +724,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 {{N}} % de mis clientes volvió a reservar.
 
-Dato de mis propias reservas: {{cómo lo conté}}. Panetón artesanal de masa madre, en Lima Este.
+Dato de mis propias reservas: {{cómo lo conté}}. Panetón de Navidad hecho a mano en Lima Este.
 
 Reserva el tuyo: escribe PANETON.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 24 · The Reveal
@@ -744,25 +743,25 @@ Contiene trigo, huevo, leche y frutos secos.
 | Tiempo | Dice | Texto en pantalla | Plano |
 | --- | --- | --- | --- |
 | 0:00.0 | Este es el panetón de café. | EL PANETÓN DE CAFÉ | Panetón de café levantado a cámara |
-| 0:02.2 | Misma masa madre, mismos tres días de reposo. | MISMA MASA, 3 DÍAS | Masa madre |
-| 0:05.1 | Con café en la masa y frutos por todas partes. | CAFÉ + FRUTOS | Corte con fruta visible |
-| 0:08.7 | Pesa 900 gramos. | 900 G | Panetón sobre la balanza |
-| 0:09.8 | {{Cómo cambia el sabor, con tus palabras}}. | {{EL SABOR}} | Tú probando una porción |
-| 0:12.4 | Escribe PANETON y pregunta por el de café. | ESCRIBE PANETON | Teléfono en la mano |
-| 0:15.3 | El de café. | EL DE CAFÉ | Cierre |
+| 0:02.2 | Misma masa, mismos tres días de reposo. | MISMA MASA, 3 DÍAS | Masa reposando |
+| 0:04.7 | Con café en la masa y frutos por todas partes. | CAFÉ + FRUTOS | Corte con fruta visible |
+| 0:08.4 | Pesa 900 gramos. | 900 G | Panetón sobre la balanza |
+| 0:09.4 | {{Cómo cambia el sabor, con tus palabras}}. | {{EL SABOR}} | Tú probando una porción |
+| 0:12.0 | Escribe PANETON y pregunta por el de café. | ESCRIBE PANETON | Teléfono en la mano |
+| 0:14.9 | El de café. | EL DE CAFÉ | Cierre |
 
 **Caption (para pegar):**
 
 ```
-Panetón de café de 900 g, con la misma masa madre y tres días de reposo.
+Panetón de café de 900 g, con la misma masa y tres días de reposo.
 
-Café en la masa y frutos por todas partes. Panetón artesanal de masa madre, en Lima Este.
+Café en la masa y frutos por todas partes. Panetón de Navidad hecho a mano en Lima Este.
 
 Escribe PANETON y pregunta por el de café.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 25 · Someone Else's Result
@@ -786,13 +785,13 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Una {{persona}} {{resultado}} en {{tiempo}}.
 
-{{Su frase, con su permiso}} Panetón artesanal de masa madre, en Lima Este.
+{{Su frase, con su permiso}} Panetón de Navidad hecho a mano en Lima Este.
 
 Si quieres lo mismo, escribe PANETON.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```
 
 ## Reel 26 · The Superlative
@@ -816,11 +815,11 @@ Contiene trigo, huevo, leche y frutos secos.
 ```
 Un buen panetón se reconoce al partirlo: fruta en cada corte, miga abierta y color dorado.
 
-Aquí la fruta va deshidratada y partida, no confitada. Panetón artesanal de masa madre, en Lima Este.
+Aquí la fruta va deshidratada y partida, no confitada. Panetón de Navidad hecho a mano en Lima Este.
 
 Guarda este video para elegir bien.
 
 Contiene trigo, huevo, leche y frutos secos.
 
-#panetonartesanal #masamadre #navidadperu
+#panetonlima #navidadperu #panetondenavidad
 ```

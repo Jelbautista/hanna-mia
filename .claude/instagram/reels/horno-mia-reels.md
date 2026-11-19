@@ -7,7 +7,7 @@ Nada se publica solo: tú grabas y tú publicas.
 **Antes de grabar, confirma:**
 1. La palabra clave **PANETON** (propuesta mía, no estaba definida) y qué envía: el enlace de reserva por WhatsApp.
 2. Que la preventa de **S/ 35** sigue vigente el día que publiques.
-3. Reel 3: la web dice "tres cosas y ninguna más", pero el panetón también lleva trigo, leche y masa madre. Por eso el guion dice "se explica en tres cosas" y suma la masa madre.
+3. Reel 3: la web dice "tres cosas y ninguna más", pero el panetón también lleva trigo y leche, además de días de reposo. Por eso el guion dice "se explica en tres cosas" y suma el reposo largo.
 4. Los alérgenos (trigo, huevo, leche y frutos secos) van en el caption de cada reel (`/ig-caption`).
 
 **Sobre las puntuaciones:** `hookscore.py`, `beats.py` y `detect.py` están calibrados para inglés. En español cuentan mal las palabras con tilde y no reconocen "setenta y dos" como cifra. Los tiempos (a 165 palabras por minuto) son una estimación útil y las puntuaciones de gancho son solo orientativas. Tu oído y tu retención mandan.
@@ -16,14 +16,14 @@ Nada se publica solo: tú grabas y tú publicas.
 
 ## Reel 1 · 72 horas
 
-Fórmula del gancho: #3 Nadie te dice / contraste industrial-artesanal  ·  duración estimada: ~24 s
+Fórmula del gancho: #3 Nadie te dice / contraste industrial / hecho a mano  ·  duración estimada: ~24 s
 
 ### Guion (una línea = un plano distinto)
 
 ```
 Tres días. Así tarda un panetón de verdad.
 Y se nota apenas lo partes.
-La masa madre se refresca cada día, durante semanas.
+La masa se refresca cada día, durante semanas.
 Lleva harina de cañihua tostada.
 Dos amasados, con horas de reposo en medio.
 Después, el horno.
@@ -38,7 +38,7 @@ Tres días.
 ```
 0:00 72 HORAS DE REPOSO
 0:03 SE NOTA AL PARTIRLO
-0:05 MASA MADRE, CADA DÍA
+0:05 LA MASA, CADA DÍA
 0:08 HARINA DE CAÑIHUA
 0:10 2 AMASADOS + REPOSO
 0:13 DESPUÉS, EL HORNO
@@ -96,7 +96,7 @@ La nuestra se explica en tres cosas.
 Uno: harina de cañihua. Sabor tostado, sin dejar de ser panetón.
 Dos: huevos frescos. Yema entera, por eso la miga sale dorada.
 Tres: arándanos y frutos secos. Deshidratados y partidos, no confitados.
-Y la masa madre, que lleva días.
+Y un reposo largo, que lleva días.
 Preventa a treinta y cinco soles. Escribe PANETON.
 Lista larga, desconfía.
 ```
@@ -109,7 +109,7 @@ Lista larga, desconfía.
 0:05 1 · HARINA DE CAÑIHUA
 0:09 2 · HUEVOS FRESCOS
 0:13 3 · ARÁNDANOS Y FRUTOS SECOS
-0:17 + MASA MADRE
+0:17 + REPOSO LARGO
 0:20 PREVENTA S/ 35 · PANETON
 0:22 LISTA LARGA, DESCONFÍA
 ```
