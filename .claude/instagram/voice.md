@@ -1,67 +1,71 @@
-# voice.md
+# voice.md — Hanna Mia
 
-Copy this to `~/.claude/instagram/voice.md` and fill it in. Every skill in the
-pack reads it. Ten minutes here is the difference between scripts you shoot and
-scripts you rewrite.
-
-If you would rather not fill it in by hand, send Claude three of your own reels
-or captions and say "write my voice.md from these". That works better than
-guessing at the answers.
-
-This file matters more on Instagram than anywhere else, because you have to say
-the words out loud. A line you would never say is not a draft, it is a retake.
+Perfil de voz para las skills `ig-*`. Escrito a partir del copy del sitio web
+(`index.html`), no de reels reales. Todo lo marcado **{{pendiente}}** hay que
+confirmarlo antes de grabar. Escribe en español de Perú.
 
 ---
 
-## Who I am
+## Quién soy
 
-- **Name:**
-- **Handle:**
-- **What I do, in one sentence:**
-- **Who I am talking to:** (be specific: "photographers charging under $2,000",
-  not "creatives")
-- **What I sell:**
+- **Nombre:** Hanna Mia
+- **Handle:** {{pendiente}}
+- **Qué hago, en una frase:** Hornea panetón artesanal de 900 g con harina de cañihua, frutos secos y arándanos, en lotes pequeños y por encargo.
+- **A quién le hablo:** Familias y personas de Lima Este (Ate) que compran panetón para regalar o para la mesa de Navidad y notan la diferencia entre uno industrial y uno de masa madre. También empresas que quieren regalos corporativos (desde 20 unidades).
+- **Qué vendo:** Panetón Hanna Mia de 900 g. Preventa S/ 35 por tiempo limitado, precio regular S/ 45. También hay versión de café. Reserva con 50 % de adelanto por WhatsApp. Entrega en Ate y Lima Este, gratis desde 2 unidades en zonas definidas.
 
-## What I sound like
+## Cómo sueno
 
-- **Three of my own reels or captions that sound most like me:** (paste them)
-- **On camera I am:** (fast and loud / dry / calm / funny / deadpan)
-- **Words I actually use:**
-- **Words I would never say out loud:**
-- **Do I swear:** (yes / mild / no)
-- **Emoji in captions:** (never / one, rarely / freely)
-- **Face on camera:** (always / sometimes / faceless)
-- **Voiceover or to-camera:**
-- **Pace:** (words per minute, if you have timed yourself reading a script.
-  `beats.py --wpm` uses this. Most people are between 150 and 200.)
+- **Tres reels o captions míos que suenen más a mí:** {{pendiente: pega tres para afinar esta sección}}
+- **En cámara soy:** Calmada y segura. Seca más que efusiva. Con humor corto y orgullo tranquilo por el oficio, sin gritar ni vender con prisa.
+- **Palabras que sí uso:** masa madre, reposo, paciencia, lote, tanda, cañihua, miga, cúpula, partidos (los frutos, no confitados), a mano, "se nota al partirlo", "una por semana".
+- **Palabras que nunca diría:** "increíble", "el mejor panetón del mundo", "no te lo pierdas", "corre", "oferta imperdible", "stop scrolling", "hola chicos, hoy les traigo…". Tampoco hablo mal del panetón industrial: lo comparo con hechos (horas contra días), no con insultos.
+- **Groserías:** No.
+- **Emoji en captions:** Uno, rara vez. Nunca como primer carácter.
+- **Cara en cámara:** {{pendiente}}
+- **Voz en off o a cámara:** {{pendiente}}
+- **Ritmo:** {{pendiente: cronometra la lectura de un guion; si no, usa 165 ppm}}
 
-## My positions
+### Rasgos del copy de la marca (para imitar)
 
-Three to five things I believe that some of my audience does not. These are
-where the good reels come from.
+- **Frases cortas y afirmativas.** "Nada aquí es rápido." "Tres cosas y ninguna más."
+- **Cifras concretas en vez de adjetivos.** 72 horas, 900 g, 12 horas colgado boca abajo, S/ 35.
+- **Contraste industrial / artesanal:** "El industrial lo hace en horas. Nosotros lo hacemos en días."
+- **Honestidad sobre el precio.** Cuesta más y lo dice: "por eso cuesta más y por eso se nota al partirlo".
+- **Escasez real, no inventada.** Lotes pequeños según lo ya reservado, "nada de stock dormido".
+- **Tono de confianza:** "Si la lista es larga, desconfía. Esta es entera."
 
-1.
-2.
-3.
+## Mis posiciones
 
-## Off limits
+Cosas que creo y que parte de mi público no comparte. De aquí salen los buenos reels.
 
-- **Topics I do not post about:**
-- **Clients, numbers or names I cannot say publicly:**
-- **Claims I am not allowed to make:** (regulated industry, employer policy, NDA)
+1. Un panetón bueno no se hace rápido: tres días de reposo se notan al partirlo.
+2. La lista corta de ingredientes es una señal de calidad: si es larga, desconfía.
+3. La fruta deshidratada y partida le gana a la confitada.
+4. El panetón no va en la nevera: el frío reseca la miga. Se estropea por sed, no por prisa.
+5. Hacer lotes pequeños según lo reservado es mejor que tener stock dormido.
 
-## Proof I can use
+## Fuera de límites
 
-Real numbers, outcomes and stories I am happy to put my name on. The skills will
-never invent one, so if this section is empty, every draft comes back with
-`{{your number}}` in it.
+- **Temas que no toco:** {{pendiente}}
+- **Clientes, cifras o nombres que no puedo decir en público:** {{pendiente}}
+- **Afirmaciones que no puedo hacer:** Nada de salud ni "sin gluten" (lleva trigo). No prometer fechas de entrega fuera de lo que confirma WhatsApp. Declarar siempre los alérgenos: trigo, huevo, leche y frutos secos.
 
--
--
--
+## Pruebas que puedo usar
 
-## The ask
+Solo lo que está en la web y es mío:
 
-- **My keyword CTA, if I use one:** (one word, sayable, no spaces)
-- **What the keyword sends them:**
-- **Where my link goes:**
+- 72 horas de reposo de la masa.
+- Masa madre que se refresca cada día durante semanas.
+- 12 horas colgado boca abajo para que la miga se estire y la cúpula no se hunda.
+- 900 g por panetón. Preventa S/ 35, regular S/ 45.
+- Ingredientes: harina de cañihua tostada, huevos frescos (yema entera), arándanos y frutos secos deshidratados y partidos.
+- Conservación: semanas sin abrir; dos o tres días abierto.
+
+No hay aún cifras de ventas, reseñas ni clientes citables. Si un guion las necesita, que salga `{{tu cifra}}` y se pregunte.
+
+## La llamada a la acción
+
+- **Mi palabra clave:** {{pendiente: una palabra sin espacios, ej. PANETON}}
+- **Qué manda esa palabra:** El enlace de reserva por WhatsApp: precios, zona de entrega y el 50 % de adelanto.
+- **A dónde va mi enlace:** WhatsApp de reservas (+51 925 612 165) y el sitio web {{pendiente: URL cuando se publique}}.
